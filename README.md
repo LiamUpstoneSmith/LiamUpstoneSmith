@@ -43,4 +43,3 @@ passionate about computer vision and machine learning. I build projects at the i
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/liamupstonesmith">liamupstonesmith</a></i></p>
