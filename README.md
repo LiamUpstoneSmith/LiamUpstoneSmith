@@ -12,7 +12,7 @@
 
 passionate about computer vision and machine learning. I build projects at the intersection of CV, and embedded systems, from thermal image fusion to real-time object detection. Comfortable working across Python and C++, with hands-on experience in PyTorch, OpenCV, and Linux-based development. Always learning, always building.
 
-🔭 &nbsp;I'm currently working on **Gesture Commands**  
+🔭 &nbsp;I'm currently working on **Gesture Commands Projects**  
 👯 &nbsp;I'm looking to collaborate on **Open-source Computer Vision Project**  
 😄 &nbsp;Pronouns: **He/Him**
 
